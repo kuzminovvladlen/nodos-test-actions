@@ -1,0 +1,1 @@
+![Build status](https://github.com/kuzminovvladlen/nodos-test-actions/actions/workflows/workflow.yml/badge.svg)
